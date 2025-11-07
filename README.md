@@ -1,1 +1,1 @@
-live link - https://colculotar.netlify.app/
+live link of the calculator app - https://colculotar.netlify.app/
